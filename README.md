@@ -247,16 +247,18 @@
 
 ---
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 
 <div align="center">
 
-```
-┌──────────────────────────┬──────────────────────────┬──────────────────────────┬──────────────────────────┐
-│   Data Structures        │   Machine Learning       │   Database Management    │   Operating Systems      │
-│   Algorithm Analysis     │   Generative AI          │   Object-Oriented Prog.  │   Computer Networks      │
-└──────────────────────────┴──────────────────────────┴──────────────────────────┴──────────────────────────┘
-```
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0d1117?style=for-the-badge&labelColor=161b22&color=238636)
+![Algorithm Analysis](https://img.shields.io/badge/Algorithm%20Analysis-0d1117?style=for-the-badge&labelColor=161b22&color=238636)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&labelColor=161b22&color=1f6feb)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-0d1117?style=for-the-badge&labelColor=161b22&color=1f6feb)
+![Database Management](https://img.shields.io/badge/Database%20Management-0d1117?style=for-the-badge&labelColor=161b22&color=9e6a03)
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-0d1117?style=for-the-badge&labelColor=161b22&color=9e6a03)
+![Operating Systems](https://img.shields.io/badge/Operating%20Systems-0d1117?style=for-the-badge&labelColor=161b22&color=6e40c9)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-0d1117?style=for-the-badge&labelColor=161b22&color=6e40c9)
 
 </div>
 
