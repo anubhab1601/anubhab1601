@@ -210,13 +210,16 @@
 
 ---
 
-## Contribution Snake
+## Profile Summary
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/anubhab1601/anubhab1601/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anubhab1601&theme=github_dark" width="97%"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anubhab1601&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anubhab1601&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anubhab1601&theme=github_dark" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anubhab1601&theme=github_dark&utcOffset=5.5" height="160"/>
 </div>
-
-> Set up the snake animation by adding a GitHub Actions workflow from [Platane/snk](https://github.com/Platane/snk).
 
 ---
 
