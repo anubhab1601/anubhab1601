@@ -20,32 +20,56 @@
 
 ## About
 
-```python
-class AnubhabMishra:
-    name       = "Anubhab Mishra"
-    role       = "ML Engineer  |  Full-Stack Developer  |  AI Researcher"
-    education  = "B.Tech CSE (AI & ML) — C.V. Raman Global University  |  CGPA: 8.94"
-    location   = "Bhubaneswar, Odisha, India"
-    email      = "anubhabmishra1601@gmail.com"
-
-    expertise  = [
-        "Exploratory Data Analysis  —  statistical profiling, outlier detection, multivariate visualisation",
-        "Model Training & Optimisation  —  hyperparameter tuning, cross-validation, ensemble methods",
-        "Dataset Analysis & Feature Engineering  —  dimensionality reduction, class-imbalance handling",
-        "Full-Stack Development  —  MERN stack, Next.js 15, TypeScript, REST / microservices",
-        "Generative AI  —  LLMs, RAG pipelines, NLP, prompt engineering",
-    ]
-
-    highlight  = "National Champion — Smart India Hackathon 2025  🏆"
-```
+<table>
+  <tr>
+    <td><b>🎓 Education</b></td>
+    <td>B.Tech CSE (AI &amp; ML) — C.V. Raman Global University &nbsp;|&nbsp; <b>CGPA: 8.94</b></td>
+  </tr>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>ML Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; AI Researcher</td>
+  </tr>
+  <tr>
+    <td><b>📍 Location</b></td>
+    <td>Bhubaneswar, Odisha, India</td>
+  </tr>
+  <tr>
+    <td><b>📧 Email</b></td>
+    <td><a href="mailto:anubhabmishra1601@gmail.com">anubhabmishra1601@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><b>🏆 Highlight</b></td>
+    <td>National Champion — Smart India Hackathon 2025</td>
+  </tr>
+  <tr>
+    <td><b>🔍 EDA</b></td>
+    <td>Statistical profiling, outlier detection, correlation analysis, multivariate visualisation</td>
+  </tr>
+  <tr>
+    <td><b>🏋️ Model Training</b></td>
+    <td>Hyperparameter tuning, cross-validation, regularisation, ensemble methods</td>
+  </tr>
+  <tr>
+    <td><b>🔬 Dataset Analysis</b></td>
+    <td>Feature engineering, dimensionality reduction (PCA / t-SNE), class-imbalance handling</td>
+  </tr>
+  <tr>
+    <td><b>🌐 Full-Stack</b></td>
+    <td>MERN stack, Next.js 15, TypeScript, REST APIs, microservices</td>
+  </tr>
+  <tr>
+    <td><b>🤖 Generative AI</b></td>
+    <td>LLMs, RAG pipelines, NLP, prompt engineering, LangChain</td>
+  </tr>
+</table>
 
 ---
 
 ## Education
 
-| Degree | Institution | Period | GPA |
+| Degree | Institution | Period | CGPA |
 |---|---|---|---|
-| **B.Tech — Computer Science & Engineering (AI & ML)** | C.V. Raman Global University, Bhubaneswar | Aug 2024 – Jul 2028 | **8.94 / 10** |
+| **B.Tech — Computer Science & Engineering (AI & ML)** | C.V. Raman Global University, Bhubaneswar | Aug 2024 – Jul 2028 | **8.94** |
 
 **Relevant Coursework:** Data Structures · Algorithm Analysis · Machine Learning · Generative AI · Database Management · Object-Oriented Programming · Operating Systems · Computer Networks
 
